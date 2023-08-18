@@ -8,8 +8,7 @@
 
 ## 🏫 Education
 
-**Bachelor of Science in Science Studies (Computer Science)** from [Strathclyde University](https://www.strath.ac.uk/) (2002-2005)<br/>
-Subjects included: Maths, Systems analysis and design, Algorithms and complexity, Databases, Human computer interaction, Group project, Individual project
+
 
 ---
 
