@@ -61,17 +61,16 @@ Personal Projects
 	
 •	Created mobile apps using Ionic Framework for iOS
 •	Created web browser applications
-•	Dojo code academy workshops
 •	Tech meet ups
 
 ---
 
 ## 🧑‍🏫 Courses and Training
-**Data Protection Enhanced** (July 2023)<br/>
-**Threat Modelling** (February 2022)<br/>
-**Architecting on AWS** (October 2019)<br/>
-**Mental Health First Aid** (March 2019)<br/>
-**Google Cloud Fundamentals: Core Infrastructure** (November 2018)
+**React js**
+**Clean Code**
+**Threat Modelling**<br/>
+**AWS Essentials**<br/>
+**Google Cloud Fundamentals: Core Infrastructure**
 
 ---
 
