@@ -6,9 +6,13 @@
 [👨‍💻 LinkedIn]([(https://www.linkedin.com/in/laura-mcgowan-004463138/)) &nbsp; 
 [⌨️ GitHub](https://github.com/lauramcgowan/)
 
+
 ## 🏫 Education
 
+City of Glasgow College
+HNC Computing- September 2015 – July 2017
 
+ISTQB Foundation Level Tester -June 2018
 
 ---
 
@@ -17,9 +21,9 @@
 ** Junior Software Engineer** @ [BBC](https://www.bbc.co.uk/) (feb 2021 - Present)<br/>
 ** Test Engineer** @ [BBC](https://www.bbc.co.uk/) (Oct 2018 - Feb 2021)<br/>
 
-- Built an analytics pipeline for the ingestion of data from a new [Voice product](https://voicebot.ai/2020/06/02/bbc-voice-assistant-beeb-launches-in-beta-in-the-uk/) that was being built in the same department.
-    - Expanded this to support ingestion from multiple sources including [Alexa devices](https://www.amazon.co.uk/dp/B0957KX2C4) and Rest APIs.
-    - Between June 2022 and August 2023 the pipeline ingested more than 1.1 Billion records and more than 1.1TB of data.
+- Worked in a backend team and to help build an analytics pipeline for the ingestion of data for a new [Voice product](https://voicebot.ai/2020/06/02/bbc-voice-assistant-beeb-launches-in-beta-in-the-uk/) 
+    -  this to support ingestion from multiple sources including [Alexa devices](https://www.amazon.co.uk/dp/B0957KX2C4) and Rest APIs.
+    - Between June 2022 and August 2023 the pipeline ingested more than 1.1 Billion records and more than 1.1TB of data
 
 - Improved the [Interactive News Alexa Skill](https://voicebot.ai/2019/10/23/bbc-launches-interactive-news-service-for-alexa/) to increase the number of users with a linked account to 20%
     - Added local news and weather forecasts for users with linked BBC accounts
@@ -30,7 +34,51 @@
     - On Alexa devices it achieved more than 3 million playbacks of the forecast, with a completition rate of &gt; 97%, reaching 95% of the UK's postcodes.
     - On the Weather app we reached approximately 400k accounts.
 
+Delivered a talk on 'Using synthetic voice to Present the weather'
 <figure>
   <figcaption>Afternoon forecast for ML3:</figcaption>
   <audio controls src="./assets/audio/weather-forecast-1.mp3"></audio>
 </figure>
+
+Training/Skills
+
+•	JavaScript, TypeScript and Node.js, 
+•	Ionic Framework using iOS and React 
+•	TDD, Junit and Jest 
+•	Web Development - REST, HTML, CSS, API’s, JSON
+•	Databases - experience using MongoDB and SQL
+•	Version Control - git and GitHub
+•	UX Design - working from user profiles, user journeys, user flow diagrams
+•	Scrum and Agile methodologies 
+•	Google cloud platform fundamentals 
+•	AWS Essentials 
+•	Introduction to Machine Learning 
+•	React.js
+•	Experience with both Jenkins and Docker 
+
+
+Personal Projects
+	
+•	Created mobile apps using Ionic Framework for iOS
+•	Created web browser applications
+•	Dojo code academy workshops
+•	Tech meet ups
+
+---
+
+## 🧑‍🏫 Courses and Training
+**Data Protection Enhanced** (July 2023)<br/>
+**Threat Modelling** (February 2022)<br/>
+**Architecting on AWS** (October 2019)<br/>
+**Mental Health First Aid** (March 2019)<br/>
+**Google Cloud Fundamentals: Core Infrastructure** (November 2018)
+
+---
+
+## 🏆 Acheivements
+
+- Spartan race finisher
+- Thai boxing enthusist 
+- 
+
+
