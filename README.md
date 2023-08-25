@@ -65,6 +65,8 @@ Personal Projects
 ## 🧑‍🏫 Courses and Training
 **React js**
 **Clean Code**
+**Mentoring**
+**Introduction to machine learning**
 **Threat Modelling**<br/>
 **AWS Essentials**<br/>
 **Google Cloud Fundamentals: Core Infrastructure**
@@ -73,8 +75,7 @@ Personal Projects
 
 ## 🏆 Acheivements
 
-- Spartan race finisher
-- Thai boxing enthusist 
-- 
+- Thai boxing 
+- Hyrox competitor 
 
 
