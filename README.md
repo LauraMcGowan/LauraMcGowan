@@ -22,7 +22,7 @@ ISTQB Foundation Level Tester -June 2018
 ** Test Engineer** @ [BBC](https://www.bbc.co.uk/) (Oct 2018 - Feb 2021)<br/>
 
 - Worked in a backend team and to help build an analytics pipeline for the ingestion of data for a new [Voice product](https://voicebot.ai/2020/06/02/bbc-voice-assistant-beeb-launches-in-beta-in-the-uk/) 
-    -  this to support ingestion from multiple sources including [Alexa devices](https://www.amazon.co.uk/dp/B0957KX2C4) and Rest APIs.
+    -  This to support ingestion from multiple sources including [Alexa devices](https://www.amazon.co.uk/dp/B0957KX2C4) and Rest APIs.
     - Between June 2022 and August 2023 the pipeline ingested more than 1.1 Billion records and more than 1.1TB of data
 
 - Improved the [Interactive News Alexa Skill](https://voicebot.ai/2019/10/23/bbc-launches-interactive-news-service-for-alexa/) to increase the number of users with a linked account to 20%
@@ -34,11 +34,13 @@ ISTQB Foundation Level Tester -June 2018
     - On Alexa devices it achieved more than 3 million playbacks of the forecast, with a completition rate of &gt; 97%, reaching 95% of the UK's postcodes.
     - On the Weather app we reached approximately 400k accounts.
 
+- Created an internal dashboard to display local news bulletins  for jounarnalists using React.js
+
 ---
 
 ## :microphone: Talks 
 
-- Delivered a talk on at BBC Develop Conference at Media City on 'Using synthetic voice to Present the weather'
+- Delivered a talk at BBC Develop Conference at Media City on 'Using synthetic voice to Present the weather'
 - Present 'tech talks' to my team on regular basis
 
 ---
