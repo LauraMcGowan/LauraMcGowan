@@ -34,12 +34,14 @@ ISTQB Foundation Level Tester -June 2018
     - On Alexa devices it achieved more than 3 million playbacks of the forecast, with a completition rate of &gt; 97%, reaching 95% of the UK's postcodes.
     - On the Weather app we reached approximately 400k accounts.
 
+---
 
 ## :microphone: Talks 
 
 - Delivered a talk on at BBC Develop Conference at Media City on 'Using synthetic voice to Present the weather'
 - Present 'tech talks' to my team on regular basis
 
+---
 
 Training/Skills
 
@@ -53,7 +55,7 @@ Training/Skills
 - Experience creating dashboards using React.js
 - Experience with both Jenkins and Docker 
 
-
+---
 
 Personal Projects
 	
@@ -64,13 +66,14 @@ Personal Projects
 ---
 
 ## 🧑‍🏫 Courses and Training
-**React js**
-**Clean Code**
-**Mentoring**
-**Introduction to machine learning**
-**Threat Modelling**<br/>
-**AWS Essentials**<br/>
-**Google Cloud Fundamentals: Core Infrastructure**
+
+- React js
+- Clean Code
+- Mentoring
+- Introduction to machine learning
+- Threat Modelling
+- AWS Essentials
+- Google Cloud Fundamentals: Core Infrastructure
 
 ---
 
