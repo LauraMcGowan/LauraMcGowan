@@ -43,23 +43,23 @@ ISTQB Foundation Level Tester -June 2018
 
 Training/Skills
 
-** JavaScript/TypeScript/Node.js 
-** TDD/Junit/Jest 
-** Frontend development - REST/HTML/CSS/APIs/JSON
-** Databases - experience using MongoDB and SQL
-** Version Control - git and GitHub
-** UX Design - working from user profiles, user journeys, user flow diagrams
-** AWS/GCP/Azure
-** Experience creating dashboards using React.js
-** Experience with both Jenkins and Docker 
+- JavaScript/TypeScript/Node.js 
+- TDD/Junit/Jest 
+- Frontend development - REST/HTML/CSS/APIs/JSON
+- Databases - experience using MongoDB and SQL
+- Version Control - git and GitHub
+- UX Design - working from user profiles, user journeys, user flow diagrams
+- AWS/GCP/Azure
+- Experience creating dashboards using React.js
+- Experience with both Jenkins and Docker 
 
 
 
 Personal Projects
 	
-•	Created mobile apps using Ionic Framework for iOS
-•	Created web browser applications
-•	Tech meet ups
+- Created mobile apps using Ionic Framework for iOS
+- Created web browser applications
+- Tech meet ups
 
 ---
 
