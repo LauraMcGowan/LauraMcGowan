@@ -42,19 +42,15 @@ Delivered a talk on 'Using synthetic voice to Present the weather'
 
 Training/Skills
 
-•	JavaScript, TypeScript and Node.js, 
-•	Ionic Framework using iOS and React 
-•	TDD, Junit and Jest 
-•	Web Development - REST, HTML, CSS, API’s, JSON
+•	JavaScript/TypeScript/Node.js, 
+•	TDD/Junit/Jest 
+•	Frontend development - REST/HTML/CSS/APIs/JSON
 •	Databases - experience using MongoDB and SQL
 •	Version Control - git and GitHub
 •	UX Design - working from user profiles, user journeys, user flow diagrams
 •	Scrum and Agile methodologies 
-•	AWS
-•	Google cloud platform fundamentals 
-•	AWS Essentials 
-•	Introduction to Machine Learning 
-•	React.js
+•	AWS/GCP/Azure
+•	Experience creating dashboards using React.js
 •	Experience with both Jenkins and Docker 
 
 
