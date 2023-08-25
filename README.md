@@ -50,6 +50,7 @@ Training/Skills
 •	Version Control - git and GitHub
 •	UX Design - working from user profiles, user journeys, user flow diagrams
 •	Scrum and Agile methodologies 
+•	AWS
 •	Google cloud platform fundamentals 
 •	AWS Essentials 
 •	Introduction to Machine Learning 
