@@ -40,9 +40,9 @@ Delivered a talk on 'Using synthetic voice to Present the weather'
   <audio controls src="./assets/audio/weather-forecast-1.mp3"></audio>
 </figure>
 
-Training/Skills
+<br>Training/Skills
 
-•	JavaScript/TypeScript/Node.js, 
+•	JavaScript/TypeScript/Node.js 
 •	TDD/Junit/Jest 
 •	Frontend development - REST/HTML/CSS/APIs/JSON
 •	Databases - experience using MongoDB and SQL
@@ -53,6 +53,7 @@ Training/Skills
 •	Experience creating dashboards using React.js
 •	Experience with both Jenkins and Docker 
 
+<br/>
 
 Personal Projects
 	
