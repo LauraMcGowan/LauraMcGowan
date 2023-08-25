@@ -34,11 +34,15 @@ ISTQB Foundation Level Tester -June 2018
     - On Alexa devices it achieved more than 3 million playbacks of the forecast, with a completition rate of &gt; 97%, reaching 95% of the UK's postcodes.
     - On the Weather app we reached approximately 400k accounts.
 
-Delivered a talk on 'Using synthetic voice to Present the weather'
 <figure>
   <figcaption>Afternoon forecast for ML3:</figcaption>
   <audio controls src="./assets/audio/weather-forecast-1.mp3"></audio>
 </figure>
+
+
+Talks 
+
+-Delivered a talk on at BBC Develope conference at Media City on 'Using synthetic voice to Present the weather'
 
 Training/Skills
 
