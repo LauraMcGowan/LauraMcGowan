@@ -37,7 +37,8 @@ ISTQB Foundation Level Tester -June 2018
 
 ## :microphone: Talks 
 
-- Delivered a talk on at BBC Develope conference at Media City on 'Using synthetic voice to Present the weather'
+- Delivered a talk on at BBC Develop Conference at Media City on 'Using synthetic voice to Present the weather'
+- Present 'tech talks' to my team on regular basis
 
 
 Training/Skills
