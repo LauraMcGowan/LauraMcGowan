@@ -21,8 +21,12 @@ ISTQB Foundation Level Tester -June 2018
 ** Junior Software Engineer** @ [BBC](https://www.bbc.co.uk/) (feb 2021 - Present)<br/>
 ** Test Engineer** @ [BBC](https://www.bbc.co.uk/) (Oct 2018 - Feb 2021)<br/>
 
+
+- Currently working in a team thats simplifies the provision of relevant metadata for BBC Sounds.
+
+
 - Worked in a backend team and to help build an analytics pipeline for the ingestion of data for a new [Voice product](https://voicebot.ai/2020/06/02/bbc-voice-assistant-beeb-launches-in-beta-in-the-uk/) 
-    -  This to support ingestion from multiple sources including [Alexa devices](https://www.amazon.co.uk/dp/B0957KX2C4) and Rest APIs.
+    -  Support ingestion from multiple sources including [Alexa devices](https://www.amazon.co.uk/dp/B0957KX2C4) and Rest APIs.
     - Between June 2022 and August 2023 the pipeline ingested more than 1.1 Billion records and more than 1.1TB of data
 
 - Improved the [Interactive News Alexa Skill](https://voicebot.ai/2019/10/23/bbc-launches-interactive-news-service-for-alexa/) to increase the number of users with a linked account to 20%
@@ -50,10 +54,10 @@ Training/Skills
 - JavaScript/TypeScript/Node.js 
 - TDD/Junit/Jest 
 - Frontend development - REST/HTML/CSS/APIs/JSON
-- Databases - experience using MongoDB and SQL
+- Databases - experience using MongoDB, SQL and DynamoDB
 - Version Control - git and GitHub
 - UX Design - working from user profiles, user journeys, user flow diagrams
-- AWS/GCP/Azure
+- AWS/GCP
 - Experience creating dashboards using React.js
 - Experience with both Jenkins and Docker 
 
@@ -64,6 +68,7 @@ Personal Projects
 - Created mobile apps using Ionic Framework for iOS
 - Created web browser applications
 - Tech meet ups
+- CityJS London
 
 ---
 
@@ -80,8 +85,7 @@ Personal Projects
 ---
 
 ## 🏆 Acheivements
-
-- Thai boxing 
+ 
 - Hyrox competitor 
 
 
