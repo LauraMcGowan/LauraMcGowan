@@ -65,7 +65,7 @@ Training/Skills
 - UX Design - working from user profiles, user journeys, user flow diagrams
 - AWS/GCP
 - Experience creating dashboards using React.js
-- Experience with both Jenkins and Docker 
+- Experience with Jenkins
 
 ---
 
